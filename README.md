@@ -55,8 +55,8 @@ A chatbot built with Amazon Lex for creating conversational interfaces using nat
 - Select Delete from the options.
 - Confirm the deletion by clicking Delete again in the prompt.
 
-<img width="500" alt="Screenshot 2024-10-01 at 20 25 58" src="https://github.com/user-attachments/assets/0deb9bd7-81a7-45c7-b424-9c4b64a690f8">
-<img width="500" alt="Screenshot 2024-10-01 at 20 26 04" src="https://github.com/user-attachments/assets/a72d051c-8925-4531-8cd0-0799c554a799">
+<img width="400" alt="Screenshot 2024-10-01 at 20 25 58" src="https://github.com/user-attachments/assets/0deb9bd7-81a7-45c7-b424-9c4b64a690f8">
+<img width="400" alt="Screenshot 2024-10-01 at 20 26 04" src="https://github.com/user-attachments/assets/a72d051c-8925-4531-8cd0-0799c554a799">
 
 
 
